@@ -1,3 +1,3 @@
-export default function Pagel() {
-  return <div>page</div>;
+export default function Page() {
+  return <main>Page</main>;
 }
